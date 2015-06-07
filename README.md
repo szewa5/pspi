@@ -28,7 +28,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
     - [O mnie](http://bnowicka.github.io/o)
     - [Techniki Judo](http://bnowicka.github.io/tech)
     - [Stopnie Judo](http://bnowicka.github.io/stopnie)
-    - [ADOC]https://github.com/bnowicka/notatki1/blob/master/test.adoc
+    - [Mini ADOC](https://github.com/bnowicka/notatki1/blob/master/test.adoc)
 1. Ostapczuk, Andrzej
     -[Ruch to zdrowie](http://slides.com/andrzejostapczuk/deck-2#/)
 1. [Selke, Marcin](http://mselke.github.io/)
