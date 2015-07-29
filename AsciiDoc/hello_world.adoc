@@ -159,6 +159,7 @@ Keyboard shortcuts (inline kbd macro):
 |kbd:[shift+cmd+l] |split selections into lines
 |kbd:[shift+alt+right/left] | select to next/previous word
 |kbd:[shift+cmd+right/left] | select to end/beginning line
+|kbd:[ctrl+cmd+space] | select emoji, często używane
 |===
 
 [WARNING]
