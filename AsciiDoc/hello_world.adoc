@@ -149,20 +149,13 @@ Keyboard shortcuts (inline kbd macro):
 |===
 |Shortcut |Purpose
 
-|kbd:[cmd+shift+p]
-|toggle command palette
-
-|kbd:[cmd+k+arrow]
-|open new pane
-
-|kbd:[ctrl+m]
-|goto matching bracket
-
-|kbd:[cmd+k] kbd:[cmd+u]
-|Upper Case
-
-|kbd:[Ctrl + +]
-|increase zoom
+|kbd:[cmd+shift+p] |toggle command palette
+|kbd:[cmd+k+arrow] |open new pane
+|kbd:[ctrl+m] |goto matching bracket
+|kbd:[cmd+k] kbd:[cmd+u] |Upper Case
+|kbd:[Ctrl + +] |increase zoom
+|kbd:[ctrl+d] |select current token
+|kbd:[ctrl+shiftarrow] |add selection up/down
 |===
 
 [WARNING]
