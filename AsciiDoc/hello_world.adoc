@@ -157,8 +157,8 @@ Keyboard shortcuts (inline kbd macro):
 |kbd:[ctrl+d] |select current token
 |kbd:[ctrl+shift+arrow] |add selection up/down
 |kbd:[shift+cmd+l] |split selections into lines
-|kbd[shift+alt+right/left] | select to next/previous word
-|kbd[shift+cmd+right/left] | select to end/beginning line
+|kbd:[shift+alt+right/left] | select to next/previous word
+|kbd:[shift+cmd+right/left] | select to end/beginning line
 |===
 
 [WARNING]
