@@ -156,6 +156,7 @@ Keyboard shortcuts (inline kbd macro):
 |kbd:[Ctrl + +] |increase zoom
 |kbd:[ctrl+d] |select current token
 |kbd:[ctrl+shiftarrow] |add selection up/down
+|kbd:[shift+cmd+l] |split selections into lines
 |===
 
 [WARNING]
