@@ -48,7 +48,7 @@ An example of the hyperlinked image with caption.
 
 ----
 [[img-vipera-berus]]
-.żmija zygzakowata (_vipera berus_)
+.Żmija zygzakowata (_Vipera berus_)
 image::vipera berus.jpg[Vipera berus, 600]
 ----
 
