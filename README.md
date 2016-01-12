@@ -2,54 +2,19 @@
 
 Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
-    1. [Nazwisko, Imię](link do swojej strony w domenie github.io)
-      - [README.md](link), [README.asc](link)
-      - [Tytuł pokazu slajdów](link)
-      - [Moje notatki z...](link)
+    1. [Nazwisko, Imię](link do swojej strony w domenie github.io), [Projekty](link do repo z projektami).
 
-1. [Erdanowski, Tomasz](http://terdanowski.github.io/)
-    - [README.md](https://github.com/terdanowski/studia-notatki/blob/master/Readme.md), 
-    [README.asc](https://github.com/terdanowski/studia-notatki/blob/master/README.asc)
-    - [Audi 80 B2](http://slides.com/terdanowski/deck#/)
-    - [Moje notatki z Programowania](https://github.com/terdanowski/studia-notatki/blob/master/Programowanie.md)
-1. [Gisko, Alicja](http://agisko.github.io/)
-  - [Markdown doc](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
-  - [ASCII doc](https://github.com/agisko/agisko.github.io/blob/master/zadanie.adoc)
-  - [Podroz do Kataru](https://slides.com/alicja1981)
-1. Jacewicz, Małgorzata
-1. Łuksza, Natalia
-1. [Nowak, Łukasz](http://nowakl.github.io/)
-    - [README.md](https://github.com/NowakL/Moje-notatki-z-J-zyk-w-programowania),         [README.adoc](https://github.com/NowakL/PSPI-1/blob/master/Kalistenika.asc)
-    - [Wspomnienia z Salsy](http://slides.com/lukasznowak-1/deck/fullscreen#/)
-    - [Moje notatki z Jezyki programowania](https://github.com/NowakL/Moje-notatki-z-J-zyk-w-programowania)
-1. [Nowicka, Beata](http://bnowicka.github.io/)
-    - [Notatki](https://github.com/bnowicka/notatki1/blob/master/README.md)
-    - [Slajdy](http://bnowicka.github.io/slides.html) 
-    - [O mnie](http://bnowicka.github.io/o)
-    - [Techniki Judo](http://bnowicka.github.io/tech)
-    - [Stopnie Judo](http://bnowicka.github.io/stopnie)
-    - [Mini ADOC](https://github.com/bnowicka/notatki1/blob/master/test.adoc)
-1. Ostapczuk, Andrzej
-  - [Ruch to zdrowie](http://slides.com/andrzejostapczuk/deck-2#/)
-1. [Selke, Marcin](http://mselke.github.io/)
-    - [README.md](https://github.com/mselke/notatki/blob/master/readme.md), 
-      [README.adoc](https://github.com/mselke/notatki/blob/master/readme.adoc)
-    - [Robotyka dla najmlodszych](http://slides.com/mselke/deck/)
-    - [Moje notatki z programowania](https://github.com/mselke/notatki/blob/master/zadania.md)
-1. [Skuza, Łukasz](https://github.com/lskuza/)
-1. [Sudomir-Gordon, Milena](http://msudomir.github.io/index.html)
-  * [slides](http://slides.com/milenasudomir/deck#/)
-  * [README.md](https://github.com/msudomir/test/blob/master/README.md)
-1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
-    - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git),      
-      [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
-    - [Zawody wspinaczkowe mojego synka](http://slides.com/rmokrzycki/deck)
-    - [Moje notatki z programowania](https://github.com/rmokrzycki/notatki-z-programowania.git)
-1. [Snarski, Lech](http://lsnarski.github.io/)
-    - [README.md](https://github.com/lsnarski/Technologie/blob/master/README.md), 
-      [README.asc](https://github.com/lsnarski/Technologie/blob/master/README.asc)
-    - [Brudna Świnka](http://slides.com/lsnarski1/deck#/)
-    - [Moje notatki z pracy na githubie przez Ubuntu](https://github.com/lsnarski/Technologie/blob/master/git_lin_base.md)
+Projekty do wykonania:
+
+1. Wprawki z notacji Markdown lub Asciidoctor
+1. Moje notatki z ... – zamiast wielokropka wpisać z czego
+1. Prezentacja z ... – jw.
+
+
+## Lista obecności
+
+1. [Włodek Bzyl](https://wbzyl.github.io/), [Projekty](https://github.com/h5c3j/project-template).
+1. ?, ?.
 
 
 ### Linki
@@ -65,13 +30,17 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. Markdown na GitHub:
   - [Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/)
+1. [GeoJSON Format Specification](http://geojson.org/geojson-spec.html):
+  - [](http://geojson.io) – simply edit GeoJSON map data
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
-1. AsciiDoc:
-  - [Asciidoctor](http://asciidoctor.org)
+1. [Asciidoctor](http://asciidoctor.org)
   - [AsciiDoc User’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
   - [HubPress](https://github.com/HubPress/hubpress.io)
 1. Slajdy:
   - [Reveal.js](http://lab.hakim.se/reveal-js/) oraz [Slides](http://slid.es/)
+
+Prosty w użyciu framework do tworzenia aplikacji WWW:
+
 1. [Meteor Framework](https://www.meteor.com/)
   - David Turnbull.
     [Your First Meteor Application](http://meteortips.com/book/) –
@@ -88,8 +57,6 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
     [asciidoc-preview](https://atom.io/packages/asciidoc-preview)
   - themes: seti-syntax, seti-ui, monokai, monokai-inverted
   - [keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
-- Jekyll: [jekyll-asciidoc](https://github.com/asciidoctor/jekyll-asciidoc),
-  [jekyll-asciidoc-quickstart](https://github.com/asciidoctor/jekyll-asciidoc-quickstart)
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
   (klucz publiczny, klucz prywatny; generowanie kluczy)
 - [GitHub Desktop](http://windows.github.com/)
@@ -185,32 +152,24 @@ Do pliku *~/.atom/snippets.cson* dopisujemy dwa snippety:
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 - [CSS Diner](http://flukeout.github.io/) – where we feast on CSS Selectors!
 
-5\. [Web Components](http://webcomponents.org)
-
-- [Polymer project](https://www.polymer-project.org/0.5/) (v0.5.5)
-- [Polymer repository](https://github.com/Polymer/polymer)
-- [Custom Elements](http://customelements.io/) –
-  a Web Components Gallery for modern web applications
-- [Web Components](https://chrome.google.com/webstore/detail/web-components/filcobblndaenakhejinpjdblekilpgn) – Chrome Extension
-
-6\. JavaScript
+5\. JavaScript
 
 - Marijn Haverbeke. [Eloquent JavaScript](http://eloquentjavascript.net/) –
   A Modern Introduction to Programming
+- Kyle Simpson. [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+Rozszerzenia dla przeglądarki Firefox:
 
-### JavaScript Extras
-
-Firefox extensions:
-- [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
-- [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
+  - [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
+  - [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
 
 [Node.js](http://nodejs.org/):
 ```console
 alias node="env NODE_NO_READLINE=1 rlwrap node"
 ```
 
-- Kyle Simpson. [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
+Dokumentacja:
+
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - John Resig.
