@@ -174,3 +174,5 @@ Dokumentacja:
   - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - John Resig.
   [Secrets of the JavaScript Ninja](http://ejohn.org/apps/learn/) – funkcje w JavaScript
+
+6\. [Divshot](https://divshot.com) blogs -> [Firebase](https://www.firebase.com/hosting.html) blogs.
