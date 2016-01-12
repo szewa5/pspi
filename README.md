@@ -176,3 +176,7 @@ Dokumentacja:
   [Secrets of the JavaScript Ninja](http://ejohn.org/apps/learn/) – funkcje w JavaScript
 
 6\. [Divshot](https://divshot.com) blogs -> [Firebase](https://www.firebase.com/hosting.html) blogs.
+
+- TODO:
+  [My Blog](https://github.com/seminarium/blog_divshot) –
+  update to recent version of Jekyll and Firebase hosting
