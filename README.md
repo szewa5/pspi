@@ -1,4 +1,4 @@
-##  [Technologie Internetowe](ug.geojson), 14/15
+##  [Technologie Internetowe](ug.geojson), 2015/16
 
 Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
