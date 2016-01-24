@@ -12,7 +12,7 @@ Włodek Bzyl <ja@home.pl>
 
 Render this document to HTML with:
 [source,console]
-$ asciidoctor hello_world.adoc
+$ asciidoctor -o public/index.html hello_world.adoc
 
 :asciidoc: http://www.methods.co.nz/asciidoc/
 :version: 1.5.4
