@@ -12,7 +12,7 @@ Włodek Bzyl <ja@home.pl>
 
 Render this document to HTML with:
 [source,console]
-$ asciidoctor hello_world.asc
+$ asciidoctor hello_world.adoc
 
 :asciidoc: http://www.methods.co.nz/asciidoc/
 :version: 1.5.2
@@ -48,15 +48,15 @@ An example of the hyperlinked image with caption.
 
 ----
 [[img-vipera-berus]]
-.Żmija zygzakowata (_Vipera berus_)
-image::vipera berus.jpg[Vipera berus, 600]
+.Widok na Czerwone Wierchy z Kasprowego Wierchu
+image::P1020943.JPG[Widok na Czerwone Wierchy, 600]
 ----
 
 The result:
 
 [[img-vipera-berus]]
-.Żmija zygzakowata (_Vipera berus_)
-image::vipera_berus.jpg[Vipera berus, 600]
+.Widok na Czerwone Wierchy z Kasprowego Wierchu
+image::P1020943.JPG[Widok na Czerwone Wierchy, 600]
 
 
 == Source Code
@@ -110,6 +110,10 @@ include+++::+++{asciidoctor-source}/README.adoc[]
 ----
 
 == Tables
+
+Więcej informacji o tabelkach w notacji AsciiDoc jest w
+http://www.methods.co.nz/asciidoc/chunked/ch23.html[rozdziale 23].
+podręczniku użytkownika „AsciiDoc. Text based document generation.”
 
 [cols="2*", options="header"]
 |===
