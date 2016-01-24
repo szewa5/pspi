@@ -15,7 +15,7 @@ Render this document to HTML with:
 $ asciidoctor hello_world.adoc
 
 :asciidoc: http://www.methods.co.nz/asciidoc/
-:version: 1.5.2
+:version: 1.5.4
 :doctor: http://asciidoctor.org/
 :writerguide: http://asciidoctor.org/docs/asciidoc-writers-guide/
 :quickref: http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
@@ -37,10 +37,12 @@ About AsciiDoctor :trophy: :
 {manual}[Asciidoctor User Manual]::
   Full manual under development!
 
-Firefox:
+Wtyczki, rozszerzenia, …:
 
-* https://addons.mozilla.org/en-US/firefox/addon/asciidoctorjs-live-preview/[Asciidoctor.js Live Preview] adds-on
-
+* przeglądarka Firefox,
+  https://addons.mozilla.org/en-US/firefox/addon/asciidoctorjs-live-preview/[Asciidoctor.js Live Preview] adds-on
+* edytor Atom,
+  https://atom.io/packages/asciidoc-preview[AsciiDoc Preview package]
 
 == Images
 
