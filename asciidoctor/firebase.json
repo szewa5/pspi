@@ -1,0 +1,9 @@
+{
+  "firebase": "pspi2016",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

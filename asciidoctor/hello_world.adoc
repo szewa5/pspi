@@ -49,14 +49,14 @@ Wtyczki, rozszerzenia, …:
 An example of the hyperlinked image with caption.
 
 ----
-[[img-vipera-berus]]
+[[jpg-czerwone-wierchy]]
 .Widok na Czerwone Wierchy z Kasprowego Wierchu
 image::P1020943.JPG[Widok na Czerwone Wierchy, 600]
 ----
 
 The result:
 
-[[img-vipera-berus]]
+[[jpg-czerwone-wierchy]]
 .Widok na Czerwone Wierchy z Kasprowego Wierchu
 image::P1020943.JPG[Widok na Czerwone Wierchy, 600]
 
