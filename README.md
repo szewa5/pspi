@@ -20,8 +20,8 @@ Projekty do wykonania:
 ### Linki
 
 1. Sigma:
-  - [Konfiguracja](https://inf.ug.edu.pl/konfiguracja); u dołu strony
-  jest informacja dla studentów – loginy, adresy majlowe, stron domowych
+  - [Konfiguracja](https://inf.ug.edu.pl/konfiguracja). U dołu strony
+  jest informacja dla studentów – loginy, adresy majlowe, stron domowych.
   - [Bash](http://wbzyl.inf.ug.edu.pl/sp/unix-commands)
 1. Git:
   - [ProGit Book, v2](http://git-scm.com/book/en/v2)
@@ -35,18 +35,27 @@ Projekty do wykonania:
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
 1. [Asciidoctor](http://asciidoctor.org)
   - [AsciiDoc User’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
-  - [HubPress](https://github.com/HubPress/hubpress.io)
+  - [AsciiDoc](http://www.methods.co.nz/asciidoc/) – home page
 1. Slajdy:
   - [Reveal.js](http://lab.hakim.se/reveal-js/) oraz [Slides](http://slid.es/)
 
-Prosty w użyciu framework do tworzenia aplikacji WWW:
+[Firebase](https://www.firebase.com) – build extraordinary apps.
+A powerful platform for your mobile or web application:
 
-1. [Meteor Framework](https://www.meteor.com/)
-  - David Turnbull.
-    [Your First Meteor Application](http://meteortips.com/book/) –
-    a complete beginner’s guide to the Meteor JavaScript Framework
-  - [Discover Meteor](http://book.discovermeteor.com/) – książka
-    ([polskie tłumaczenie](http://pl.discovermeteor.com/))
+* [Hosting](https://www.firebase.com/docs/hosting/)
+  Deploy your web app in seconds with our production-grade static
+  asset hosting. From acquiring the SSL cert to serving your content on our
+  global CDN, we do it all for you.
+
+1. Sign in and log in.
+1. Utwórz nową Appkę.
+1. Na konsoli Bash wykonaj:
+
+```bash
+mkdir public
+asciidoctor -o public/index.html hello_world.adoc
+firebase init
+```
 
 
 ### Użyteczne narzędzia
