@@ -2,26 +2,26 @@
 
 Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
-    1. [Nazwisko, Imię](link do swojej strony w domenie github.io), [Projekty](link do repo z projektami).
+    1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Projekty](link do repo z projektami).
 
 Projekty do wykonania:
 
 1. Wprawki z notacji Markdown lub Asciidoctor
 1. Moje notatki z ... – zamiast wielokropka wpisać z czego
-1. Prezentacja z ... – jw.
+1. Prezentacja lub blog.
 
 
 ## Lista obecności
 
-1. [Włodek Bzyl](https://wbzyl.github.io/), [Projekty](https://github.com/h5c3j/project-template).
-1. ?, ?.
+1. [Włodek Bzyl](https://pspi2016.firebaseapp.com/),
+   [Projekty](https://github.com/h5c3j/project-template).
 
 
 ### Linki
 
 1. Sigma:
   - [Konfiguracja](https://inf.ug.edu.pl/konfiguracja). U dołu strony
-  jest informacja dla studentów – loginy, adresy majlowe, stron domowych.
+    jest informacja dla studentów – loginy, adresy majlowe, stron domowych.
   - [Bash](http://wbzyl.inf.ug.edu.pl/sp/unix-commands)
 1. Git:
   - [ProGit Book, v2](http://git-scm.com/book/en/v2)
@@ -30,13 +30,13 @@ Projekty do wykonania:
 1. Markdown na GitHub:
   - [Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/)
-1. [GeoJSON Format Specification](http://geojson.org/geojson-spec.html):
-  - [](http://geojson.io) – simply edit GeoJSON map data
-  - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
 1. [Asciidoctor](http://asciidoctor.org)
   - [AsciiDoc User’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
   - [AsciiDoc](http://www.methods.co.nz/asciidoc/) – home page
-1. Slajdy:
+1. [GeoJSON Format Specification](http://geojson.org/geojson-spec.html):
+  - [](http://geojson.io) – simply edit GeoJSON map data
+  - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
+1. Prezentacje:
   - [Reveal.js](http://lab.hakim.se/reveal-js/) oraz [Slides](http://slid.es/)
 
 [Firebase](https://www.firebase.com) – build extraordinary apps.
@@ -174,7 +174,7 @@ Rozszerzenia dla przeglądarki Firefox:
 
 [Node.js](http://nodejs.org/):
 ```console
-alias node="env NODE_NO_READLINE=1 rlwrap node"
+alias n="env NODE_NO_READLINE=1 rlwrap node"
 ```
 
 Dokumentacja:
@@ -183,9 +183,3 @@ Dokumentacja:
   - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - John Resig.
   [Secrets of the JavaScript Ninja](http://ejohn.org/apps/learn/) – funkcje w JavaScript
-
-6\. [Divshot](https://divshot.com) blogs -> [Firebase](https://www.firebase.com/hosting.html) blogs.
-
-- TODO:
-  [My Blog](https://github.com/seminarium/blog_divshot) –
-  update to recent version of Jekyll and Firebase hosting
