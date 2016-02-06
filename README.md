@@ -22,11 +22,18 @@ Projekty do wykonania:
 1. Sigma:
   - [Konfiguracja](https://inf.ug.edu.pl/konfiguracja). U dołu strony
     jest informacja dla studentów – loginy, adresy majlowe, stron domowych.
+  - Michael Hartl.
+    [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
   - [Bash](http://wbzyl.inf.ug.edu.pl/sp/unix-commands)
 1. Git:
+  - Michael Hartl.
+    [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial)
   - [ProGit Book, v2](http://git-scm.com/book/en/v2)
   - [Using pull requests (on GitHub)](https://help.github.com/articles/using-pull-requests/)
   - [Konfiguracja](http://wbzyl.inf.ug.edu.pl/sp/git)
+1. Edytory:
+  - Michael Hartl.
+    [Learn Enough Text Editor to Be Dangerous](http://www.learnenough.com/text-editor-tutorial)
 1. Markdown na GitHub:
   - [Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/)
