@@ -58,6 +58,9 @@ A powerful platform for your mobile or web application:
 1. Utwórz nową Appkę.
 1. Na konsoli Bash wykonaj:
 
+Użyty poniżej, przykładowy plik _hello_world.adoc_
+jest w katalogu [asciidoctor](asciidoctor):
+
 ```bash
 mkdir public
 asciidoctor -o public/index.html hello_world.adoc
