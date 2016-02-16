@@ -1,13 +1,13 @@
 ##  [Technologie internetowe](ug.geojson), 2015/16
 
-Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
+Linki do projektów na zaliczenie z przedmiotu „Technologie Internetowe”:
 
     1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Projekty](link do repo z projektami).
 
 Projekty do wykonania:
 
 1. Wprawki z notacji Markdown lub Asciidoctor
-1. Moje notatki z ... – zamiast wielokropka wpisać z czego
+1. Moje notatki z … – zamiast wielokropka wpisać z czego
 1. Prezentacja lub blog.
 
 
