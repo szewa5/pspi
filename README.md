@@ -41,7 +41,7 @@ Projekty do wykonania:
   - [AsciiDoc User’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
   - [AsciiDoc](http://www.methods.co.nz/asciidoc/) – home page
 1. [GeoJSON Format Specification](http://geojson.org/geojson-spec.html):
-  - [](http://geojson.io) – simply edit GeoJSON map data
+  - [GeoJSON.io](http://geojson.io) – simply edit GeoJSON map data
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
 1. Prezentacje:
   - [Reveal.js](http://lab.hakim.se/reveal-js/) oraz [Slides](http://slid.es/)
