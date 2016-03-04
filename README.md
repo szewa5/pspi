@@ -2,7 +2,7 @@
 
 Projekty do wykonania:
 
-1. Wprawki z notacji Markdown lub Asciidoctor
+1. Wprawki z notacji Markdown lub Asciidoctor (na rozgrzewkę 😅)
 1. Moje notatki z … – zamiast wielokropka wpisać z czego
 1. Prezentacja lub blog.
 
@@ -11,11 +11,11 @@ Projekty do wykonania:
 
 Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 
-    1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Projekty](link do repo z projektami).
+    1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Moje notatki z …](link do repo z notatkami).
 
 Nasze projekty:
 
-1. [Włodek Bzyl](https://pspi2016.firebaseapp.com/), [Projekty](https://github.com/h5c3j/project-template).
+1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
 
 
 ### Linki
