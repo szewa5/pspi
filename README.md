@@ -1,9 +1,5 @@
 ##  [Technologie internetowe](ug.geojson), 2015/16
 
-Linki do projektów na zaliczenie z przedmiotu „Technologie Internetowe”:
-
-    1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Projekty](link do repo z projektami).
-
 Projekty do wykonania:
 
 1. Wprawki z notacji Markdown lub Asciidoctor
@@ -13,8 +9,13 @@ Projekty do wykonania:
 
 ## Lista obecności
 
-1. [Włodek Bzyl](https://pspi2016.firebaseapp.com/),
-   [Projekty](https://github.com/h5c3j/project-template).
+Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
+
+    1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Projekty](link do repo z projektami).
+
+Nasze projekty:
+
+1. [Włodek Bzyl](https://pspi2016.firebaseapp.com/), [Projekty](https://github.com/h5c3j/project-template).
 
 
 ### Linki
