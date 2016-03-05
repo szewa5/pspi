@@ -23,7 +23,7 @@ Nasze projekty:
 1. D Lachowicz
 1. MA Lewandowski
 1. SL Majewska
-1. [Jacek Mankiewicz](http://github.com/JacekMMC/)
+1. [Jacek Mankiewicz](http://github.com/JacekMMC/) [Repozytorium](https://github.com/JacekMMC/zadanie-1)
 1. EM Ostrowska-Janczak
 1. MH Pieper
 1. [Marcin Puciato](https://github.com/mpuciato)
