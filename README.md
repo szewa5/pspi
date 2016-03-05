@@ -34,7 +34,7 @@ Nasze projekty:
 1. D Uss
 1. J Wałek
 1. A Wróblewska
-1. R Wróblewski
+1. [R Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
 1. A Zieliński
 
 
