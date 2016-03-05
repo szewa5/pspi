@@ -28,7 +28,6 @@ Nasze projekty:
 1. [Maria Pieper](https://github.com/borowianka).
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. J Rajewicz
-1. J Rajewicz
 1. [Damian Stoltmann](https://github.com/damiansto).
 1. AM Szostak
 1. [Magdalena Sawicka](https://github.com/msawicka), [Projekt](https://github.com/msawicka/worktime).
