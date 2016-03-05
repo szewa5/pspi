@@ -31,7 +31,7 @@ Nasze projekty:
 1. J Rajewicz
 1. D Stoltmann
 1. AM Szostak
-1. M Sawicka
+1. [Magdalena Sawicka][projekt](https://github.com/msawicka/worktime)
 1. D Uss
 1. J Wałek
 1. A Wróblewska
