@@ -33,9 +33,9 @@ Nasze projekty:
 1. AM Szostak
 1. M Sawicka
 1. D Uss
-1. J Wałek
+1. [Jakub Wałek](https://github.com/qbaw), [projekty](https://github.com/qbaw/projekty)
 1. A Wróblewska
-1. [R Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
+1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
 1. A Zieliński
 
 
