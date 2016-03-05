@@ -16,26 +16,26 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 Nasze projekty:
 
 1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
-1. [Marek Andrzejewski](https://github.com/marekug) 
-1. [Ewa Barczak](https://github.com/ewagrzywka)
+1. [Marek Andrzejewski](https://github.com/marekug).
+1. [Ewa Barczak](https://github.com/ewagrzywka).
 1. AA Bemke
-1. K Idziak
-1. D Lachowicz
-1. MA Lewandowski
+1. [Kasia Idziak](https://github.com/idzionek).
+1. [D Lachowicz](https://github.com/Alphacentauri01).
+1. [Michał Lewandowski](https://github.com/lewand16).
 1. SL Majewska
-1. [Jacek Mankiewicz](http://github.com/JacekMMC/) [Repozytorium](https://github.com/JacekMMC/zadanie-1)
-1.[Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka)
-1. MH Pieper
-1. [Marcin Puciato](https://github.com/mpuciato)
+1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
+1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
+1. [Maria Pieper](https://github.com/borowianka).
+1. [Marcin Puciato](https://github.com/mpuciato).
 1. J Rajewicz
 1. J Rajewicz
-1. D Stoltmann
+1. [Damian Stoltmann](https://github.com/damiansto).
 1. AM Szostak
-1. [Magdalena Sawicka](https://github.com/msawicka), [projekt](https://github.com/msawicka/worktime)
-1. D Uss
-1. [Jakub Wałek](https://github.com/qbaw), [projekty](https://github.com/qbaw/projekty)
+1. [Magdalena Sawicka](https://github.com/msawicka), [Projekt](https://github.com/msawicka/worktime).
+1. [D Uss](https://github.com/danieluss476).
+1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
 1. A Wróblewska
-1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
+1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
 1. A Zieliński
 
 
