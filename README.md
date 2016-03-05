@@ -26,7 +26,7 @@ Nasze projekty:
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/)
 1. EM Ostrowska-Janczak
 1. MH Pieper
-1. M Puciato
+1. [Marcin Puciato](https://github.com/mpuciato)
 1. J Rajewicz
 1. J Rajewicz
 1. D Stoltmann
