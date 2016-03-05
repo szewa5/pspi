@@ -85,6 +85,8 @@ Następnie wykonaj:
 mkdir public
 asciidoctor -o public/index.html hello_world.adoc
 firebase init
+# jeśli poprzednie polecenia wykonały się bez błędów wykonujemy
+firebase deploy
 ```
 
 Przykładowy plik _hello_world.adoc_ użyty w poleceniu powyżej
