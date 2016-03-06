@@ -33,7 +33,7 @@ Nasze projekty:
 1. [Magdalena Sawicka](https://github.com/msawicka), [Projekt](https://github.com/msawicka/worktime).
 1. [D Uss](https://github.com/danieluss476).
 1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
-1. A Wróblewska
+1. [Anna Wróblewska](https://github.com/aniawr).
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
 1. A Zieliński
 
