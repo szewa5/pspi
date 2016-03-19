@@ -166,6 +166,7 @@ Do pliku *~/.atom/snippets.cson* dopisujemy dwa snippety:
 
 2\. HTML & CSS
 
+- [Thinkful HTML](https://github.com/mjhea0/thinkful-html)
 - [HTML 5 Outliner](https://gsnedders.html5.org/outliner/);
   [Chrome extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 - [Thinkful HTML](https://github.com/mjhea0/thinkful-html) –
