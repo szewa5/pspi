@@ -30,7 +30,7 @@ Nasze projekty:
 1. [Jakub Rajewicz](https://github.com/szewa5).
 1. [Damian Stoltmann](https://github.com/damiansto).
 1. [Anna Szostak](https://github.com/aniamaria).
-1. [Magdalena Sawicka](https://github.com/msawicka), [Projekt](https://github.com/msawicka/worktime).
+1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium).
 1. [D Uss](https://github.com/danieluss476).
 1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
 1. [Anna Wróblewska](https://github.com/aniawr).
