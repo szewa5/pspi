@@ -35,7 +35,7 @@ Nasze projekty:
 1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
 1. [Anna Wróblewska](https://github.com/aniawr).
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
-1. A Zieliński
+1. [Andrzej Zieliński] (https://github.com/azet2/repozytorium)
 
 
 ### Linki
