@@ -27,7 +27,7 @@ Nasze projekty:
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
 1. [Maria Pieper](https://github.com/borowianka).
 1. [Marcin Puciato](https://github.com/mpuciato).
-1. J Rajewicz
+1. [Jakub Rajewicz](https://github.com/szewa5).
 1. [Damian Stoltmann](https://github.com/damiansto).
 1. [Anna Szostak](https://github.com/aniamaria).
 1. [Magdalena Sawicka](https://github.com/msawicka), [Projekt](https://github.com/msawicka/worktime).
