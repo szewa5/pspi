@@ -33,7 +33,7 @@ Nasze projekty:
 1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium).
 1. [D Uss](https://github.com/danieluss476).
 1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
-1. [Anna Wróblewska](https://github.com/aniawr).
+1. [Anna Wróblewska](https://github.com/aniawr), [Repozytorium](https://github.com/aniawr/o-puzzlach), [Strona](http://aniawr.github.io/pszczoly/).
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
 1. [Andrzej Zieliński](https://github.com/azet20), [Repozytorium](https://github.com/azet2/repozytorium).
 
