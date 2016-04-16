@@ -28,7 +28,7 @@ Nasze projekty:
 1. [Maria Pieper](https://github.com/borowianka).
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. [Jakub Rajewicz](https://github.com/szewa5).
-1. [Damian Stoltmann](https://github.com/damiansto).
+1. [Damian Stoltmann](https://github.com/damiansto).[Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/)
 1. [Anna Szostak](https://github.com/aniamaria).
 1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium).
 1. [D Uss](https://github.com/danieluss476).
