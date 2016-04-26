@@ -165,13 +165,14 @@ Do pliku *~/.atom/snippets.cson* dopisujemy dwa snippety:
 
 2\. HTML & CSS
 
-- [Thinkful HTML](https://github.com/mjhea0/thinkful-html)
 - [HTML 5 Outliner](https://gsnedders.html5.org/outliner/);
   [Chrome extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 - [Thinkful HTML](https://github.com/mjhea0/thinkful-html) –
   wprowadzenie do HTML i CSS
   - [Web Design/HTML Challenges](http://en.wikiversity.org/wiki/Web_Design/HTML_Challenges)
 - [Learn CSS Layout](http://learnlayout.com/)
+- [HEAD](https://github.com/joshbuchea/HEAD) –
+  a list of everything that goes in the <head> of your document
 
 3\. HTML5
 
