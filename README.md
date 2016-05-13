@@ -17,7 +17,7 @@ Nasze projekty:
 
 1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
 1. [Marek Andrzejewski](https://github.com/marekug).
-1. [Ewa Barczak](https://github.com/ewagrzywka), [Repozytorium](https://github.com/ewagrzywka/eco).
+1. [Ewa Barczak](https://github.com/ewagrzywka), [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
 1. [Aleksandra Bemke](https://github.com/abemke).
 1. [Kasia Idziak](https://github.com/idzionek).
 1. [D Lachowicz](https://github.com/Alphacentauri01).
