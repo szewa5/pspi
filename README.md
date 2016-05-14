@@ -26,7 +26,7 @@ Nasze projekty:
 1. [Maria Pieper](https://github.com/borowianka), [Strona](http://borowianka.github.io/strona/), [Notatka](https://github.com/borowianka/notatka).
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Moje notatki z Markdown](https://github.com/szewa5/notatki). 
-1. [Damian Stoltmann](https://github.com/damiansto). [Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/).
+1. [Damian Stoltmann](https://github.com/damiansto). [Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/), [Notatki z Pythona](https://github.com/damiansto/Notatki-z-Zadania-w-Python-).
 1.  [Anna Szostak](https://github.com/aniamaria). [Notatki z wykladow](https://github.com/aniamaria/Notatki_z_wykladow), [Podróże z dziećmi – Polska](http://aniamaria.github.io/aniamaria/).
 1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium), [Strona](http://msawicka.github.io/Repozytorium/wizytowka/).
 1. [Daniel Uss](https://github.com/danieluss476).
