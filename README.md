@@ -32,7 +32,7 @@ Nasze projekty:
 1. [Daniel Uss](https://github.com/danieluss476).
 1. [Jakub Wałek](https://github.com/qbaw). [Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?](https://github.com/qbaw/projekty), [Mój Wordpress](http://qbaw.github.io/Wordpress--moje-projekty).
 1. [Anna Wróblewska](https://github.com/aniawr). [Repozytorium](https://github.com/aniawr/o-puzzlach), [Strona](http://aniawr.github.io/pszczoly/).
-1. [Rafał Wróblewski](https://github.com/ElektroITmatyk). [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
+1. [Rafał Wróblewski](https://elektroitmatyk.github.io/ti-2016/). [Moje notatki z Java Spring](https://github.com/ElektroITmatyk/ti-2016/tree/master).
 1. [Andrzej Zieliński](https://github.com/azet20). [Repozytorium](https://github.com/azet2/repozytorium).
 
 <!--
