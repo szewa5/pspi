@@ -25,7 +25,7 @@ Nasze projekty:
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
 1. [Maria Pieper](https://github.com/borowianka), [Strona](http://borowianka.github.io/strona/), [Notatka](https://github.com/borowianka/notatka).
 1. [Marcin Puciato](https://github.com/mpuciato).
-1. [Jakub Rajewicz](https://github.com/szewa5).
+1. [Jakub Rajewicz](https://github.com/szewa5), [Strona](http://szewa5.github.io/moje-projekt/). [Moje notatki z Markdown](https://github.com/szewa5/notatki).
 1. [Damian Stoltmann](https://github.com/damiansto). [Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/).
 1. [Anna Szostak](https://github.com/aniamaria).
 1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium), [Strona](http://msawicka.github.io/Repozytorium/wizytowka/).
