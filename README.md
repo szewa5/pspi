@@ -21,7 +21,7 @@ Nasze projekty:
 1. [Kasia Idziak](https://github.com/idzionek). [Moja Azja](http://idzionek.github.io/Moja-Azja/).
 1. [Dariusz Lachowicz](https://github.com/Alphacentauri01).
 1. [Michał Lewandowski](https://github.com/lewand16). [Notatki z Markdown](https://github.com/lewand16/TI2016). [Strona o małej retencji](http://lewand16.github.io/TI2016).
-1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
+1. [Jacek Mankiewicz](http://github.com/JacekMMC/). [Niezeszyt z wykładu](https://github.com/JacekMMC/zadanie-1), [Wyżyna Krakowsko-Częstochowska](http://jacekmmc.github.io/wyzyna-).
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka). [Niezeszyt z programowania w C](https://github.com/eleczka/MojeNotatkiZJezykaC), [Moje ulubione ryby morskie](http://eleczka.github.io).
 1. [Maria Pieper](https://github.com/borowianka), [Strona](http://borowianka.github.io/strona/), [Notatka](https://github.com/borowianka/notatka).
 1. [Marcin Puciato](https://github.com/mpuciato).
