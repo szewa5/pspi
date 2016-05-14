@@ -25,7 +25,7 @@ Nasze projekty:
 1. SL Majewska
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
-1. [Maria Pieper](https://github.com/borowianka).
+1. [Maria Pieper](https://github.com/borowianka),[Strona](http://borowianka.github.io/strona/),[Notatka](https://github.com/borowianka/notatka).
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. [Jakub Rajewicz](https://github.com/szewa5).
 1. [Damian Stoltmann](https://github.com/damiansto).[Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/)
