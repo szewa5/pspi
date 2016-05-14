@@ -15,27 +15,29 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 
 Nasze projekty:
 
-1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
-1. [Marek Andrzejewski](https://github.com/marekug), [Repozytorium](https://github.com/marekug/Jezyki-programowania-06.03)
-1. [Ewa Barczak](https://github.com/ewagrzywka), [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
-1. [Aleksandra Bemke](https://github.com/abemke),[Notatka z Teorii Gier] (https://github.com/abemke/notatka-magisterka),[Strona o Kuźnicy](http://abemke.github.io/strona-www-ku-nica/).
+1. [Marek Andrzejewski](https://github.com/marekug). [Repozytorium](https://github.com/marekug/Jezyki-programowania-06.03).
+1. [Ewa Barczak](https://github.com/ewagrzywka). [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
+1. [Aleksandra Bemke](https://github.com/abemke). [Notatka z Teorii Gier] (https://github.com/abemke/notatka-magisterka), [Strona o Kuźnicy](http://abemke.github.io/strona-www-ku-nica/).
 1. [Kasia Idziak](https://github.com/idzionek).
-1. [D Lachowicz](https://github.com/Alphacentauri01).
-1. [Michał Lewandowski](https://github.com/lewand16),[Strona o małej retencji](http://lewand16.github.io/TI2016),[Notatki z Markdown](https://github.com/lewand16/TI2016).
-1. SL Majewska
+1. [Dariusz Lachowicz](https://github.com/Alphacentauri01).
+1. [Michał Lewandowski](https://github.com/lewand16).update [Strona o małej retencji](http://lewand16.github.io/TI2016). [Notatki z Markdown](https://github.com/lewand16/TI2016).
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
-1. [Maria Pieper](https://github.com/borowianka),[Strona](http://borowianka.github.io/strona/),[Notatka](https://github.com/borowianka/notatka).
+1. [Maria Pieper](https://github.com/borowianka), [Strona](http://borowianka.github.io/strona/), [Notatka](https://github.com/borowianka/notatka).
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. [Jakub Rajewicz](https://github.com/szewa5).
-1. [Damian Stoltmann](https://github.com/damiansto).[Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/)
+1. [Damian Stoltmann](https://github.com/damiansto). [Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/).
 1. [Anna Szostak](https://github.com/aniamaria).
 1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium), [Strona](http://msawicka.github.io/Repozytorium/wizytowka/).
-1. [D Uss](https://github.com/danieluss476).
-1. [Jakub Wałek](https://github.com/qbaw), [Projekty](https://github.com/qbaw/projekty).
-1. [Anna Wróblewska](https://github.com/aniawr), [Repozytorium](https://github.com/aniawr/o-puzzlach), [Strona](http://aniawr.github.io/pszczoly/).
-1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
-1. [Andrzej Zieliński](https://github.com/azet20), [Repozytorium](https://github.com/azet2/repozytorium).
+1. [Daniel Uss](https://github.com/danieluss476).
+1. [Jakub Wałek](https://github.com/qbaw). [Projekty](https://github.com/qbaw/projekty).
+1. [Anna Wróblewska](https://github.com/aniawr). [Repozytorium](https://github.com/aniawr/o-puzzlach), [Strona](http://aniawr.github.io/pszczoly/).
+1. [Rafał Wróblewski](https://github.com/ElektroITmatyk). [Repozytorium](https://github.com/ElektroITmatyk/TI-2016).
+1. [Andrzej Zieliński](https://github.com/azet20). [Repozytorium](https://github.com/azet2/repozytorium).
+
+<!--
+1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
+-->
 
 ### Linki
 
