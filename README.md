@@ -18,7 +18,7 @@ Nasze projekty:
 1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
 1. [Marek Andrzejewski](https://github.com/marekug), [Repozytorium](https://github.com/marekug/Jezyki-programowania-06.03)
 1. [Ewa Barczak](https://github.com/ewagrzywka), [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
-1. [Aleksandra Bemke](https://github.com/abemke).
+1. [Aleksandra Bemke](https://github.com/abemke),[Notatka z Teorii Gier] (https://github.com/abemke/notatka-magisterka),[Strona o Kuźnicy](http://abemke.github.io/strona-www-ku-nica/).
 1. [Kasia Idziak](https://github.com/idzionek).
 1. [D Lachowicz](https://github.com/Alphacentauri01).
 1. [Michał Lewandowski](https://github.com/lewand16).
