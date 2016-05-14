@@ -27,7 +27,7 @@ Nasze projekty:
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Moje notatki z Markdown](https://github.com/szewa5/notatki). 
 1. [Damian Stoltmann](https://github.com/damiansto). [Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/).
-1. [Anna Szostak](https://github.com/aniamaria).
+1.  [Anna Szostak](https://github.com/aniamaria). [Podróże z dziećmi - Polska.](http://aniamaria.github.io/aniamaria/), [Repozytorium](https://github.com/aniamaria/Notatki_z_wykladow).
 1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium), [Strona](http://msawicka.github.io/Repozytorium/wizytowka/).
 1. [Daniel Uss](https://github.com/danieluss476).
 1. [Jakub Wałek](https://github.com/qbaw). [Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?](https://github.com/qbaw/projekty), [Mój Wordpress](http://qbaw.github.io/Wordpress--moje-projekty).
