@@ -18,7 +18,7 @@ Nasze projekty:
 1. [Marek Andrzejewski](https://github.com/marekug). [Repozytorium](https://github.com/marekug/Jezyki-programowania-06.03).
 1. [Ewa Barczak](https://github.com/ewagrzywka). [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
 1. [Aleksandra Bemke](https://github.com/abemke). [Notatka z Teorii Gier] (https://github.com/abemke/notatka-magisterka), [Strona o Kuźnicy](http://abemke.github.io/strona-www-ku-nica/).
-1. [Kasia Idziak](https://github.com/idzionek).
+1. [Kasia Idziak](https://github.com/idzionek).[Moja azja](http://idzionek.github.io/Moja-Azja/)
 1. [Dariusz Lachowicz](https://github.com/Alphacentauri01).
 1. [Michał Lewandowski](https://github.com/lewand16). [Strona o małej retencji](http://lewand16.github.io/TI2016). [Notatki z Markdown](https://github.com/lewand16/TI2016).
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
