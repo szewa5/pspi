@@ -7,13 +7,7 @@ Projekty do wykonania:
 1. Prezentacja lub blog.
 
 
-## Lista obecności
-
-Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
-
-    1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Moje notatki z …](link do repo z notatkami).
-
-Nasze projekty:
+## Nasze projekty
 
 1. [Ewa Barczak](https://github.com/ewagrzywka). [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
 1. [Aleksandra Bemke](https://github.com/abemke). [Notatka z Teorii Gier] (https://github.com/abemke/notatka-magisterka), [Strona o Kuźnicy](http://abemke.github.io/strona-www-ku-nica/).
@@ -40,6 +34,10 @@ Nasze projekty:
 
 
 <!--
+Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
+
+    1. [Nazwisko, Imię](link do strony na github.io lub firebaseapp.com), [Moje notatki z …](link do repo z notatkami).
+
 1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
 -->
 
