@@ -62,7 +62,7 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 - [Reply.it](http://repl.it/languages/JavaScript)
 
 
-## Rozkład zajęć
+### Rozkład zajęć
 
 1\. Git:
 
