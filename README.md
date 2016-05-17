@@ -2,6 +2,7 @@
 
 Projekty do wykonania:
 
+1. Moje konto na Github.
 1. Wprawki z notacji Markdown.
 1. Moja strona wdrożona WWW.
 
