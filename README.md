@@ -20,7 +20,7 @@ Projekty do wykonania:
 1. [Jakub Wałek](https://github.com/qbaw). [Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?](https://github.com/qbaw/projekty), [Mój Wordpress](http://qbaw.github.io/Wordpress--moje-projekty).
 1. [Anna Wróblewska](https://github.com/aniawr). [Moje puzzle](https://github.com/aniawr/o-puzzlach), [Pszczoły](http://aniawr.github.io/pszczoly/).
 
-----
+Proszę uzupełnić:
 
 1. [Marek Andrzejewski](https://github.com/marekug). [Repozytorium](https://github.com/marekug/Jezyki-programowania-06.03).
 1. [Kasia Idziak](https://github.com/idzionek). [Moja Azja](http://idzionek.github.io/Moja-Azja/).
