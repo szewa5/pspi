@@ -58,6 +58,7 @@ Linki do projektów na zaliczenie wpisujemy w jednym wierszu według wzoru:
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [CodePen](http://codepen.io/) – front end developer playground & code editor in the browser
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) – color wheel and schemes
+- [COLOURlovers](http://www.colourlovers.com) – Color Trends + Palettes
 - [Reply.it](http://repl.it/languages/JavaScript)
 
 
