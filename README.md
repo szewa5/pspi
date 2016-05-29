@@ -25,7 +25,7 @@ Projekty do wykonania:
 Proszę uzupełnić:
 
 1. [Marek Andrzejewski](https://github.com/marekug). [Repozytorium](https://github.com/marekug/Jezyki-programowania-06.03).
-1. [Kasia Idziak](https://github.com/idzionek). [Moja Azja](http://idzionek.github.io/Moja-Azja/).
+1. [Kasia Idziak](https://github.com/idzionek). [Moja Azja](http://idzionek.github.io/Moja-Azja/), [Kosmetyki z kuchennej półki](https://github.com/idzionek/Kosmetyki-z-kuchennej-p-ki).
 1. [Dariusz Lachowicz](https://github.com/Alphacentauri01).
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Moje notatki z Markdown](https://github.com/szewa5/notatki).
