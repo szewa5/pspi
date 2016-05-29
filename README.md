@@ -17,7 +17,7 @@ Projekty do wykonania:
 1. [Maria Pieper](https://github.com/borowianka), [Strona](http://borowianka.github.io/strona/), [Notatka](https://github.com/borowianka/notatka).
 1. [Damian Stoltmann](https://github.com/damiansto). [Notatki z Pythona](https://github.com/damiansto/Notatki-z-Zadania-w-Python-), [Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/).
 1.  [Anna Szostak](https://github.com/aniamaria). [Niezeszyt z wykladow](https://github.com/aniamaria/Notatki_z_wykladow), [Podróże z dziećmi – Polska](http://aniamaria.github.io/aniamaria/).
-1. [Magdalena Sawicka](https://github.com/msawicka), [Repozytorium](https://github.com/msawicka/Repozytorium), [Strona](http://msawicka.github.io/Repozytorium/wizytowka/).
+1. [Magdalena Sawicka](https://github.com/msawicka), [O-Kocie.](https://github.com/msawicka/Repozytorium), [O mnie.](http://msawicka.github.io/Repozytorium/Mojeportfolio/index.html).
 1. [Jakub Wałek](https://github.com/qbaw). [Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?](https://github.com/qbaw/projekty), [Mój Wordpress](http://qbaw.github.io/Wordpress--moje-projekty).
 1. [Anna Wróblewska](https://github.com/aniawr). [Moje puzzle](https://github.com/aniawr/o-puzzlach), [Pszczoły](http://aniawr.github.io/pszczoly/).
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk). [Moje notatki z Java Spring](https://github.com/ElektroITmatyk/ti-2016/tree/master), [Fanpage Deus Ex](https://elektroitmatyk.github.io/ti-2016/).
