@@ -27,7 +27,7 @@ Projekty do wykonania:
 
 Proszę uzupełnić:
 
-1. [Marcin Puciato](https://github.com/mpuciato).
+1. [Marcin Puciato](https://github.com/mpuciato),[notatka o Gierłoży](https://github.com/mpuciato/wilczyszaniec),[strona](http://mpuciato.github.io/Wilczyszaniec2).
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Moje notatki z Markdown](https://github.com/szewa5/notatki).
 1. [Daniel Uss](https://github.com/danieluss476).
 1. [Andrzej Zieliński](https://github.com/azet20). [Repozytorium](https://github.com/azet2/repozytorium).
