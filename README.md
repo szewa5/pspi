@@ -9,7 +9,7 @@ Projekty do wykonania:
 
 ## Nasze projekty
 
-1. [Ewa Barczak](https://github.com/ewagrzywka). [Repozytorium](https://github.com/ewagrzywka/eco), [Strona] (http://ewagrzywka.github.io/Ewa/).
+1. [Ewa Barczak](https://github.com/ewagrzywka). [Przyprawy](https://github.com/ewagrzywka/Ewa), [Zielone Koktajle] (zielonykoktajl.lnfo.pl).
 1. [Aleksandra Bemke](https://github.com/abemke). [Notatka z Teorii Gier] (https://github.com/abemke/notatka-magisterka), [Strona o Kuźnicy](http://abemke.github.io/strona-www-ku-nica/).
 1. [Kasia Idziak](https://github.com/idzionek). [Moja Azja](http://idzionek.github.io/Moja-Azja/), [Kosmetyki z kuchennej półki](https://github.com/idzionek/Kosmetyki-z-kuchennej-p-ki).
 1. [Michał Lewandowski](https://github.com/lewand16). [Notatki z wykładu](https://github.com/lewand16/TI2016), [Woda i lasy](http://lewand16.github.io/TI2016).
