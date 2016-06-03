@@ -26,7 +26,7 @@ Projekty do wykonania:
 Proszę uzupełnić:
 
 1. [Marek Andrzejewski](https://github.com/marekug). [Repozytorium](https://github.com/marekug/Jezyki-programowania-06.03), [Mały poradnik języka Scratch](http://marekug.github.io/Scratch/).
-1. [Dariusz Lachowicz](https://github.com/Alphacentauri01).
+1. [Dariusz Lachowicz](https://github.com/Alphacentauri01).[Notaki do herbatki](http://alphacentauri01.github.io/Notatki-do-herbatki01),[Samochody fanpage DJ I FF](http://alphacentauri01.github.io/Notatki-do-herbatki01)
 1. [Marcin Puciato](https://github.com/mpuciato).
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Moje notatki z Markdown](https://github.com/szewa5/notatki).
 1. [Daniel Uss](https://github.com/danieluss476).
