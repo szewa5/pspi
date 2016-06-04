@@ -24,13 +24,13 @@ Projekty do wykonania:
 1. [Jakub Wałek](https://github.com/qbaw). [Kiedy nasza cywilizacja osiągnie kolejny stopień rozwoju?](https://github.com/qbaw/projekty), [Mój Wordpress](http://qbaw.github.io/Wordpress--moje-projekty).
 1. [Anna Wróblewska](https://github.com/aniawr). [Moje puzzle](https://github.com/aniawr/o-puzzlach), [Pszczoły](http://aniawr.github.io/pszczoly/).
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk). [Moje notatki z Java Spring](https://github.com/ElektroITmatyk/ti-2016/tree/master), [Fanpage Deus Ex](https://elektroitmatyk.github.io/ti-2016/).
+1. [Andrzej Zieliński](https://github.com/azet2). [Repozytorium](https://github.com/azet2/repozytorium). [Ciekawe Apki](http://azet2.github.io/Apki/).
 
 Proszę uzupełnić:
 
 1. [Marcin Puciato](https://github.com/mpuciato),[notatka o Gierłoży](https://github.com/mpuciato/wilczyszaniec),[strona](http://mpuciato.github.io/Wilczyszaniec2).
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Moje notatki z Markdown](https://github.com/szewa5/notatki).
 1. [Daniel Uss](https://github.com/danieluss476).
-1. [Andrzej Zieliński](https://github.com/azet2). [Repozytorium](https://github.com/azet2/repozytorium). [Ciekawe Apki](http://azet2.github.io/Apki/)
 
 
 <!--
