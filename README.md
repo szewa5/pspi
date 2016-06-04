@@ -18,6 +18,7 @@ Projekty do wykonania:
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/). [Niezeszyt z wykładu](https://github.com/JacekMMC/zadanie-1), [Wyżyna Krakowsko-Częstochowska](http://jacekmmc.github.io/wyzyna-).
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka). [Niezeszyt z programowania w C](https://github.com/eleczka/MojeNotatkiZJezykaC), [Moje ulubione ryby morskie](http://eleczka.github.io).
 1. [Maria Pieper](https://github.com/borowianka), [Strona](http://borowianka.github.io/strona/), [Notatka](https://github.com/borowianka/notatka).
+1. [Marcin Puciato](https://github.com/mpuciato). [Notatka o Gierłoży](https://github.com/mpuciato/wilczyszaniec). [Moja stronka](http://mpuciato.github.io/Wilczyszaniec2).
 1. [Damian Stoltmann](https://github.com/damiansto). [Notatki z Pythona](https://github.com/damiansto/Notatki-z-Zadania-w-Python-), [Strona Rzym] (http://damiansto.github.io/Rzym-w-3-dni/).
 1.  [Anna Szostak](https://github.com/aniamaria). [Niezeszyt z wykladow](https://github.com/aniamaria/Notatki_z_wykladow), [Podróże z dziećmi – Polska](http://aniamaria.github.io/aniamaria/).
 1. [Magdalena Sawicka](https://github.com/msawicka). [O-Kocie](https://github.com/msawicka/Repozytorium), [O mnie](http://msawicka.github.io/Repozytorium/Mojeportfolio/index.html).
@@ -28,7 +29,6 @@ Projekty do wykonania:
 
 Proszę uzupełnić:
 
-1. [Marcin Puciato](https://github.com/mpuciato). [Notatka o Gierłoży](https://github.com/mpuciato/wilczyszaniec). [Moja stronka](http://mpuciato.github.io/Wilczyszaniec2).
 1. [Jakub Rajewicz](http://szewa5.github.io/moje-projekt/). [Notatki z Markdown](https://github.com/szewa5/notatki).
 1. [Daniel Uss](https://github.com/danieluss476).
 
