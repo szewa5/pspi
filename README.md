@@ -26,6 +26,7 @@ Projekty do wykonania:
 1. [Anna Wróblewska](https://github.com/aniawr). [Moje puzzle](https://github.com/aniawr/o-puzzlach), [Pszczoły](http://aniawr.github.io/pszczoly/).
 1. [Rafał Wróblewski](https://github.com/ElektroITmatyk). [Moje notatki z Java Spring](https://github.com/ElektroITmatyk/ti-2016/tree/master), [Fanpage Deus Ex](https://elektroitmatyk.github.io/ti-2016/).
 1. [Andrzej Zieliński](https://github.com/azet2). [Repozytorium](https://github.com/azet2/repozytorium). [Ciekawe Apki](http://azet2.github.io/Apki/).
+18. [Jakub Rajewicz](https://github.com/szewa5). [Python w pigułce](https://github.com/szewa5/notatki), [Amatorska Liga Koszykowki](http://szewa5.github.io/moje-projekt/).
 
 Proszę uzupełnić:
 
